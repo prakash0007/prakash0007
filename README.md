@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <img align="right" height="180px" src="https://github.com/prakash0007/prakash0007/blob/main/download.jfif" alt="image" />
 <p align="left"
-<hi align-"center">Hi there,I am Prakash🙂.
+Hi there,I am Prakash🙂.
 -🚲 I’m currently studying my final year of computer science Bachelor's degree👣.
 -🌱 I’m currently learning <strong>Machine learning and Data Science </strong>.
 -🤔 I’m looking for help with <strong> MLops 👨🏼‍🤝‍👨 </strong>🏻.
