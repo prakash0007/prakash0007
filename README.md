@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 <p align="left"
 
 
-<br>-Hi there,I am Prakash🙂.</br>
-<br>-🚲 Currently studying my final year of computer science Bachelor's degree👣.</br>
-<br>-🌱 I’m currently learning <strong>Machine learning and Data Science </strong>.</br>
+<br>- Hi there,I am Prakash🙂.</br>
+<br>- 🚲 Currently studying my final year of computer science Bachelor's degree👣.</br>
+<br>- 🌱 I’m currently learning <strong>Machine learning and Data Science </strong>.</br>
 <br>- 💬 Ask me about <strong>Python and Machine Learning </strong>..</br>
-<br> ✍You can check out my blogs at [Medium]("https://medium.com/@saiprakash2488")</br>
-<br>-📫 How to reach me [Prakash]("www.linkedin.com/in/prakash0007")
+<br>- ✍You can check out my blogs at [Medium]("https://medium.com/@saiprakash2488")</br>
+<br>- 📫 How to reach me [Prakash]("www.linkedin.com/in/prakash0007")
 
 
 <p align="center">
