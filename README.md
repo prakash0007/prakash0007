@@ -25,6 +25,6 @@ Hi there,I am Prakash🙂.
 -📫 How to reach me <a href ="www.linkedin.com/in/prakash0007" target="_blank">Prakash</a>
 
 <p align="center">
-  <a href="https://github.com/prakash0007/prakash0007/blob/main/naruto.jfif"target="_blank">Image</a>
+  <image align="left" height="180px" src="https://github.com/prakash0007/prakash0007/blob/main/naruto.jfif" alt="image"/>
   <img src="https://github-readme-stats.vercel.app/api?username=prakash0007&count_private=true&show_icons=true&theme=radical" alt="Prakash">
        </p>
