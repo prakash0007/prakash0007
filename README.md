@@ -25,6 +25,6 @@ Hi there,I am Prakash🙂.
 -📫 How to reach me <a href ="www.linkedin.com/in/prakash0007" target="_blank">Prakash</a>
 
 <p align="center">
-  <a href="https://www.google.com/imgresimgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F61%2F7d%2Fb4%2F617db4ff458d6183719808ba5f5729b4.png&imgrefurl=https%3A%2F%2Ffi.pinterest.com%2Fpin%2F416794140494293173%2F&tbnid=Nr69uyHHjcImAM&vet=12ahUKEwjBiLDAvd3uAhU8KnIKHdUSBIsQMygHegUIARDdAQ..i&docid=SUKs0BbygzdxVM&w=225&h=225&q=naruto%20logo&ved=2ahUKEwjBiLDAvd3uAhU8KnIKHdUSBIsQMygHegUIARDdAQ"target="_blank">Image</a>
+  <a href="https://github.com/prakash0007/prakash0007/blob/main/naruto.jfif"target="_blank">Image</a>
   <img src="https://github-readme-stats.vercel.app/api?username=prakash0007&count_private=true&show_icons=true&theme=radical" alt="Prakash">
        </p>
