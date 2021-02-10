@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br>-🌱 I’m currently learning <strong>Machine learning and Data Science </strong>.</br>
 <br>-🤔 Looking for help with <strong> MLops 👨 </strong></br>
 <br>- 💬 Ask me about <strong>Python and Machine Learning </strong>..</br>
-<br>-📫 How to reach me <a href ="www.linkedin.com/in/prakash0007" target="_blank">Prakash</a></br>
+<br>-📫 How to reach me <a href ="www.linkedin.com/in/prakash0007">Prakash</a></br>
 
 <p align="center">
   <image align="left" height="180px" src="https://github.com/prakash0007/prakash0007/blob/main/naruto.jfif" alt="image"/>
