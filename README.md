@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img align="right" height="180px" src="https://github.com/prakash0007/prakash0007/blob/main/download.jfif" alt="image" />
 <p align="left"
 Hi there,I am Prakash🙂.
--🚲 Currently studying my final year of computer science Bachelor's degree👣.
+<br>-🚲 Currently studying my final year of computer science Bachelor's degree👣.</br>
 -🌱 I’m currently learning <strong>Machine learning and Data Science </strong>.
 -🤔 Looking for help with <strong> MLops 👨🏼‍🤝‍👨 </strong>🏻.
 - 💬 Ask me about <strong>Python and Machine Learning </strong>..
